@@ -65,11 +65,11 @@ Present the findings from the analysis phase, including key statistics and insig
 ### Recommendations
 Provide actionable recommendations based on the findings to improve security awareness and training programs.
 
----
-Feel free to customize the content as needed for your specific project and organization. Let me know if you need further assistance!
-
 ### Conclusion
 Summarize the project, highlighting key takeaways and the overall effectiveness of the campaign.
 
 ### References
 Cite any sources or references used in the project.
+
+---
+Feel free to customize the content as needed for your specific project and organization. Let me know if you need further assistance!
